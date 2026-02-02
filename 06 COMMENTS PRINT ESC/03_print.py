@@ -1,0 +1,7 @@
+print("Hello, World!", "Fabio", 5)
+print()
+print('Hello, World')
+print('Jhon')
+print("Hello, World", end="..")
+print("Jimmy", end="//")
+print()
